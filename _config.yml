@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://github.com/chenjq16/chenjq16.github.io/blob/main/assets/img"
+img_cdn: "https://github.com/chenjq16/chenjq16.github.io/blob/16980063e1a9de2f98fec372e184154bfd946713/assets/img"
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
