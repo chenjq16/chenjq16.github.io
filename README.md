@@ -9,10 +9,11 @@ The repository is built grom the template of al-lolio.
 [Jekyll](https://jekyllrb.com/docs/installation/)
 
 bundle
-~~~
+
+```
 bundle add webrick # Ruby > 3.0
 bundle exec jekyll serve # build
-~~~
+```
 
 # al-folio
 
