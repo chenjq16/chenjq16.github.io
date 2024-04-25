@@ -1,5 +1,7 @@
 # chenjq16.github.io
 
+The repository is built grom the template of al-lolio.
+
 # Notes
 
 [GitHub Pages](https://docs.github.com/zh/pages)
