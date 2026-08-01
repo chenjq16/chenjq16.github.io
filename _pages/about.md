@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.u-tokyo.ac.jp'>The University of Tokyo</a>. 7-3-1, Hongo, Bunkyo-Ku, Tokyo, JAPAN
+subtitle: <a href='https://otalab.race.t.u-tokyo.ac.jp/en/'>Mobile robotics laboratory</a>, <a href='https://www.u-tokyo.ac.jp'>The University of Tokyo</a>, 7-3-1, Hongo, Bunkyo-Ku, Tokyo, JAPAN
 
 profile:
   align: right
   image: chen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>東京晴空塔と隅田河</p>
     <p>Tokyo Skytree and Sumida River</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
