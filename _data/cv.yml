@@ -3,18 +3,19 @@ cv:
   headline: Doctoral Student
   label: Doctoral Student
   email: chenjq16@g.ecc.u-tokyo.ac.jp
+  website: https://chenjq16.github.io
   location: Tokyo, Japan
   photo: ../assets/img/portrait.jpg
   image: portrait.jpg
   summary: Doctoral student at the University of Tokyo, Japan. My research focuses on robotics, motion planning, and reinforcement learning.
 
   social_networks:
-    - network: X
-      username: chenjq16_
     - network: GitHub
       username: chenjq16
     - network: LinkedIn
-      username: jianqiang-chen-93a220195
+      username: chenjq16
+    - network: Google Scholar
+      username: g0jRJHYAAAAJ
 
   address:
     street: 7-3-1 Hongo
@@ -42,7 +43,7 @@ cv:
         location: Beijing, China
         url: https://www.tsinghua.edu.cn
         area: Electronic and Information Engineering
-        degree: M.Eng.
+        degree: MS
         start_date: 2020-09
         end_date: 2023-06
         highlights:
@@ -52,7 +53,7 @@ cv:
         location: Beijing, China
         url: https://www.tsinghua.edu.cn
         area: Measurement and Control Technology and Instrument
-        degree: B.Eng.
+        degree: BS
         start_date: 2016-09
         end_date: 2020-06
         highlights:
@@ -62,7 +63,7 @@ cv:
         location: Beijing, China
         url: https://www.tsinghua.edu.cn
         area: Economics
-        degree: B.Econ.
+        degree: BS
         start_date: 2017-09
         end_date: 2020-06
         # highlights:
