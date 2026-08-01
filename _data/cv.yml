@@ -42,7 +42,7 @@ cv:
         location: Beijing, China
         url: https://www.tsinghua.edu.cn
         area: Electronic and Information Engineering
-        degree: Master
+        degree: M.Eng.
         start_date: 2020-09
         end_date: 2023-06
         highlights:
@@ -52,7 +52,7 @@ cv:
         location: Beijing, China
         url: https://www.tsinghua.edu.cn
         area: Measurement and Control Technology and Instrument
-        degree: Bachelor
+        degree: B.Eng.
         start_date: 2016-09
         end_date: 2020-06
         highlights:
@@ -62,7 +62,7 @@ cv:
         location: Beijing, China
         url: https://www.tsinghua.edu.cn
         area: Economics
-        degree: Second Bachelor
+        degree: B.Econ.
         start_date: 2017-09
         end_date: 2020-06
         # highlights:
@@ -134,6 +134,31 @@ cv:
     #     awarder: German Physical Society
     #     summary: Awarded for outstanding scientific achievement
 
+    Projects:
+      - name: Pedestrian Navigation
+        summary: Engineering Research Center for Navigation Technology, Department of Precision Instrument, Tsinghua University
+        highlights:
+          - Developed an embedded system for pedestrian navigation
+          - Developed pedestrian motion-state recognition algorithms
+          - Established a pedestrian motion-state database
+        start_date: 2020-03
+        end_date: 2023-08
+
+      - name: Microsphere Cleaning Device for Biological Detection
+        summary: School of Medicine, Tsinghua University
+        highlights:
+          - Simulated fluid flow in the cleaning device using COMSOL
+          - Developed control software for the cleaning device
+        start_date: 2018-11
+        end_date: 2019-03
+
+      - name: Paper-Based Pressure and Displacement Sensors
+        summary: Department of Precision Instrument, Tsinghua University
+        highlights:
+          - Designed sensors that use conductive coatings to detect displacement and stress
+        start_date: 2017-10
+        end_date: 2018-09
+
     Publications:
       - title: Sampling-Based Motion Planning Using DMPs Under a Novel Scaling Approach
         authors:
@@ -179,16 +204,19 @@ cv:
         level: Master
         icon: fa-solid fa-robot
         keywords: "ROS, Motion Planning, Deep Learning"
+        summary: "Master — ROS, Motion Planning, Deep Learning"
 
       - name: Programming
         level: Master
         icon: fa-solid fa-code
         keywords: "Python, C/C++, MATLAB"
+        summary: "Master — Python, C/C++, MATLAB"
 
       - name: Embedded Systems
         level: Intermediate
         icon: fa-solid fa-microchip
         keywords: "STM32, Raspberry Pi, Arduino"
+        summary: "Intermediate — STM32, Raspberry Pi, Arduino"
 
     Languages:
       - name: Chinese
@@ -204,14 +232,17 @@ cv:
       - name: Robotics
         icon: fa-solid fa-robot
         keywords: "Motion Planning, Reinforcement Learning, Deep Learning"
+        summary: "Motion Planning, Reinforcement Learning, Deep Learning"
 
       - name: Sports
         icon: fa-solid fa-futbol
         keywords: "Basketball, Table Tennis, Swimming"
+        summary: "Basketball, Table Tennis, Swimming"
 
       - name: Travel
         icon: fa-solid fa-plane
         keywords: "East Asia, Europe, Southeast Asia"
+        summary: "East Asia, Europe, Southeast Asia"
 
     # Certificates:
     #   - name: Machine Learning
@@ -228,31 +259,6 @@ cv:
     #     date: 2018-01-01
     #     issuer: Stanford University
     #     icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Pedestrian Navigation
-        summary: Engineering Research Center for Navigation Technology, Department of Precision Instrument, Tsinghua University
-        highlights:
-          - Developed an embedded system for pedestrian navigation
-          - Developed pedestrian motion-state recognition algorithms
-          - Established a pedestrian motion-state database
-        start_date: 2020-03
-        end_date: 2023-08
-
-      - name: Microsphere Cleaning Device for Biological Detection
-        summary: School of Medicine, Tsinghua University
-        highlights:
-          - Simulated fluid flow in the cleaning device using COMSOL
-          - Developed control software for the cleaning device
-        start_date: 2018-11
-        end_date: 2019-03
-
-      - name: Paper-Based Pressure and Displacement Sensors
-        summary: Department of Precision Instrument, Tsinghua University
-        highlights:
-          - Designed sensors that use conductive coatings to detect displacement and stress
-        start_date: 2017-10
-        end_date: 2018-09
 
     # References:
     # - name: Professor John Doe
