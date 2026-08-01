@@ -1,9 +1,11 @@
 cv:
   name: Jianqiang Chen
+  headline: Doctoral Student
   label: Doctoral Student
-  email: chenjq16[at]g.ecc.u-tokyo.ac.jp
+  email: chenjq16@g.ecc.u-tokyo.ac.jp
   location: Tokyo, Japan
-  image: "portrait.jpg"
+  photo: ../assets/img/portrait.jpg
+  image: portrait.jpg
   summary: Doctoral student at the University of Tokyo, Japan. My research focuses on robotics, motion planning, and reinforcement learning.
 
   social_networks:
@@ -29,7 +31,7 @@ cv:
         area: Precision Engineering
         degree: PhD
         start_date: 2023-10
-        end_date: now
+        end_date: present
         # courses: "Theory of Relativity"
         highlights:
           - "GPA: 2.80/3.0"
