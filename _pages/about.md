@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://otalab.race.t.u-tokyo.ac.jp/en/'>Mobile robotics laboratory</a>, <a href='https://www.u-tokyo.ac.jp'>The University of Tokyo</a>, 7-3-1, Hongo, Bunkyo-Ku, Tokyo, JAPAN
+subtitle: <a href='https://otalab.race.t.u-tokyo.ac.jp/en/'>Mobile robotics laboratory</a>, <a href='https://www.u-tokyo.ac.jp'>The University of Tokyo</a>, 7-3-1, Hongo, Bunkyo-Ku, Tokyo, Japan
 
 profile:
   align: right

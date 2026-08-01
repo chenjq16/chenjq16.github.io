@@ -5,8 +5,8 @@ cv:
   email: chenjq16@g.ecc.u-tokyo.ac.jp
   website: https://chenjq16.github.io
   location: Tokyo, Japan
-  photo: ../assets/img/portrait.jpg
-  image: portrait.jpg
+  photo: ../assets/img/portrait_chen.jpg
+  image: portrait_chen.jpg
   summary: Doctoral student at the University of Tokyo, Japan. My research focuses on robotics, motion planning, and reinforcement learning.
 
   social_networks:

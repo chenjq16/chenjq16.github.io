@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: family
+description: members of my family
 nav: true
 nav_order: 6
 
@@ -10,19 +10,21 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: portrait_chen.jpg
+    content: about_chen.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Jianqiang Chen</p>
+      <p>Mobile Robotics Laboratory</p>
+      <p>The University of Tokyo</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: portrait_liu.jpg
+    content: about_liu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>
+        Li Liu<br>
+        The University Museum<br>
+        The University of Tokyo
+      </p>
 ---
