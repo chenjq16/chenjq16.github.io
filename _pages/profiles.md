@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: portrait_chen.jpg
+    image: chen_cute.jpg
     content: about_chen.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       <p>Mobile Robotics Laboratory</p>
       <p>The University of Tokyo</p>
   - align: left
-    image: portrait_liu.jpg
+    image: liu_cute.jpg
     content: about_liu.md
     image_circular: false # crops the image to make it circular
     more_info: >
