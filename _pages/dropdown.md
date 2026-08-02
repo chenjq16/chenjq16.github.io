@@ -8,12 +8,15 @@ children:
   - title: projects
     permalink: /projects/
   - title: divider
+  - title: repositories
+    permalink: /repositories/
+  - title: divider
   - title: profiles
     permalink: /people/
   - title: divider
   - title: bookshelf
     permalink: /books/
-  - title: divider
-  - title: teaching
-    permalink: /teaching/
+  # - title: divider
+  # - title: teaching
+  #   permalink: /teaching/
 ---
