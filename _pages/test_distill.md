@@ -5,6 +5,9 @@ description: an example of a distill-style blog post and main elements
 tags: distill formatting
 giscus_comments: true
 date: 2021-05-22
+permalink: /blog/2021/distill/
+nav: false
+sitemap: false
 featured: true
 mermaid:
   enabled: true
