@@ -25,13 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### Hi there 👋
+### Hi there :wave:
 
-I'm curretly a doctoral student.
+I'm a doctoral student in Precision Engineering at the University of Tokyo, conducting research in the Mobile Robotics Laboratory.
 
-I’m currently working on robotics.
+My research focuses on robotic motion planning, learning from demonstration, and reinforcement learning.
 
-Fun fact: 🏀 🎬 📺 🤖️
+Outside of research, I enjoy basketball, movies, and TV series. :basketball: :movie_camera: :tv: :robot:
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats-rouge-zeta.vercel.app/api?username=chenjq16&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--;hide=stars,commits,prs,issues,contribs-->
