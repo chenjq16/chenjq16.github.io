@@ -333,7 +333,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["robot", "embedded-systems", "travel", "gourmet"] # tags displayed at the top of the blog page; add them after publishing matching posts
+display_tags: ["robot", "embedded-systems", "travel", "gourmet", "comments"] # tags displayed at the top of the blog page; add them after publishing matching posts
 display_categories: ["research", "personal"] # categories displayed at the top of the blog page; add them after publishing matching posts
 
 # -----------------------------------------------------------------------------
