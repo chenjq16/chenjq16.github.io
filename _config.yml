@@ -341,10 +341,10 @@ display_categories: ["research", "personal"] # categories displayed at the top o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Chen]
+  first_name: [Jianqiang, J.]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
